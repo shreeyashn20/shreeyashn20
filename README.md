@@ -138,9 +138,9 @@ Research Area: Emissions Trading, Energy-Climate Policy Modelling and Integrated
 - **[Multiple Linear Regression for Combined Cycle Power Plant](https://github.com/shreeyashn20/Multiple-Linear-Regression---Combined-Cycle-Power-Plant)** - *R*
 - **[Panel Data Analysis of Grunfeld Investment Dataset for OLS, Entity and Time Fixed Effect Regression Models](https://github.com/shreeyashn20/PANEL-DATA-ANALYSIS-Grunfeld-Investment-Data)** - *R*
 - **[Binary Data Analysis of Women Employment Dataset for Probit and Logit model Regression Models](https://github.com/shreeyashn20/Probit-Logit-Model)** - *R*
-- **[ANOVA test for renewable capacity](https://github.com/shreeyashn20/ANOVA-test-for-renewable-capacity)**
-- **[Japan-Environmentally-Extended-Input-Output-Model](https://github.com/shreeyashn20/Japan-Environmentally-Extended-Input-Output-Model)**
-- **[Evolutionary-Game-Model](https://github.com/shreeyashn20/Evolutionary-Game-Model)**
+- **[ANOVA test for renewable capacity](https://github.com/shreeyashn20/ANOVA-test-for-renewable-capacity)** - *R*
+- **[Japan-Environmentally-Extended-Input-Output-Model](https://github.com/shreeyashn20/Japan-Environmentally-Extended-Input-Output-Model)**  - *GAMS*
+- **[Evolutionary-Game-Model](https://github.com/shreeyashn20/Evolutionary-Game-Model)** - *Matlab*
 
 ---
 
