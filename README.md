@@ -6,7 +6,7 @@ Research Area: Emissions Trading, Energy-Climate Policy Modelling and Integrated
 
 <shreeyashmalode@gmail.com>  • <shreeyashn20@iitk.ac.in>
 
-[LinkedIn](https://www.linkedin.com/in/shreeyashmalode/) • [GitHub](https://github.com/shreeyashn20) • [ORCID ID](https://orcid.org/0000-001-9571-0424)
+[LinkedIn](https://www.linkedin.com/in/shreeyashmalode/) • [GitHub](https://github.com/shreeyashn20) • [ORCID ID](https://orcid.org/0000-001-9571-0424) • [Google Scholar](https://scholar.google.com/citations?user=WQcqZIoAAAAJ&hl=en)
 
 ---
 
