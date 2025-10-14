@@ -4,7 +4,7 @@ Doctoral Candidate - Department of Management Sciences
 Indian Institute of Technology Kanpur (IITK), India  
 Research Area: Emissions Trading, Energy-Climate Policy Modelling and Integrated Assessment Modelling
 
-<shreeyashmalode@gmail.com>  • <shreeyashn20@iitk.ac.in> • +91 9545122299
+<shreeyashmalode@gmail.com>  • <shreeyashn20@iitk.ac.in>
 
 [LinkedIn](https://www.linkedin.com/in/shreeyashmalode/) • [GitHub](https://github.com/shreeyashn20) • [ORCID ID](https://orcid.org/0000-001-9571-0424)
 
