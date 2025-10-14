@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="<https://github.com/shreeyashn20/shreeyashn20/blob/main/Shreeyash_Nitin_Malode_CV_Nov_25.pdf>" target="_blank">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=googledrive" alt="Download CV">
-  </a>
-</p>
-
-# Shreeyash Nitin Malode
+# Shreeyash Nitin Malode | [Download CV](https://github.com/shreeyashn20/shreeyashn20/blob/main/Shreeyash_Nitin_Malode_CV_Nov_25.pdf)
 
 Doctoral Candidate - Department of Management Sciences  
 Indian Institute of Technology Kanpur (IITK), India  
