@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="<YOUR_CV_PDF_LINK_HERE>" target="_blank">
+  <a href="<https://github.com/shreeyashn20/shreeyashn20/blob/main/Shreeyash_Nitin_Malode_CV_Nov_25.pdf>" target="_blank">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=googledrive" alt="Download CV">
   </a>
 </p>
