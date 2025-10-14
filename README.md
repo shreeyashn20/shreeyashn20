@@ -1,15 +1,18 @@
+<p align="center">
+  <a href="<YOUR_CV_PDF_LINK_HERE>" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=googledrive" alt="Download CV">
+  </a>
+</p>
+
 # Shreeyash Nitin Malode
 
 Doctoral Candidate - Department of Management Sciences  
 Indian Institute of Technology Kanpur (IITK), India  
 Research Area: Emissions Trading, Energy-Climate Policy Modelling and Integrated Assessment Modelling
 
-<shreeyashmalode@gmail.com>  
-<shreeyashn20@iitk.ac.in>  
-[Google Scholar](https://scholar.google.com/citations?user=WQcqZIoAAAAJ&hl=en)
-[LinkedIn](https://www.linkedin.com/in/shreeyashmalode/)  
-[GitHub](https://github.com/shreeyashn20)  
-[ORCID ID](https://orcid.org/0000-001-9571-0424)
+<shreeyashmalode@gmail.com>  • <shreeyashn20@iitk.ac.in> • +91 9545122299
+
+[LinkedIn](https://www.linkedin.com/in/shreeyashmalode/) • [GitHub](https://github.com/shreeyashn20) • [ORCID ID](https://orcid.org/0000-001-9571-0424)
 
 ---
 
@@ -134,6 +137,19 @@ Research Area: Emissions Trading, Energy-Climate Policy Modelling and Integrated
 
 ---
 
+## **GitHub Repositories**
+
+- **[A Simplified Approach to Inputting Data into MESSAGEix without MS Excel](https://github.com/iiasa/message_ix/discussions/779#discussion-6065747)** - *Python*
+- **[West Bengal Cross Subsidy and Cross Subsidy Surcharge](https://github.com/shreeyashn20/West-Bengal-Cross-Subsidy-Cross-Subsidy-Surcharge)** - *Excel*
+- **[Multiple Linear Regression for Combined Cycle Power Plant](https://github.com/shreeyashn20/Multiple-Linear-Regression---Combined-Cycle-Power-Plant)** - *R*
+- **[Panel Data Analysis of Grunfeld Investment Dataset for OLS, Entity and Time Fixed Effect Regression Models](https://github.com/shreeyashn20/PANEL-DATA-ANALYSIS-Grunfeld-Investment-Data)** - *R*
+- **[Binary Data Analysis of Women Employment Dataset for Probit and Logit model Regression Models](https://github.com/shreeyashn20/Probit-Logit-Model)** - *R*
+- **[ANOVA test for renewable capacity](https://github.com/shreeyashn20/ANOVA-test-for-renewable-capacity)**
+- **[Japan-Environmentally-Extended-Input-Output-Model](https://github.com/shreeyashn20/Japan-Environmentally-Extended-Input-Output-Model)**
+- **[Evolutionary-Game-Model](https://github.com/shreeyashn20/Evolutionary-Game-Model)**
+
+---
+
 ## **Awards and Achievements**
 
 - Selected for **[MS Research Hub EU-Funded Scholarship program](https://ms-researchhub.com/)** for online participation at **[General Equilibrium Model](https://ms-researchhub.com/home/training/gem-training.html)** - *MS Research Hub, Kassel, Germany*
@@ -153,6 +169,10 @@ Research Area: Emissions Trading, Energy-Climate Policy Modelling and Integrated
 - **2024 Summer School for System Modeling [July, 2024]** - *IIASA, Laxenburg, Austria [On-site]*
 - **Electric Vehicle: Mobility meets the power system** - *Florence School of Regulation, European Union Institute*
 - **Model for Analysis of Energy Demand** - *Climate Compatible Growth, U.K.*
+- **Masterclass in ESG Reporting and Impact Measurement** - *NIT Rourkela*
+- **Stakeholder Consultation on Indian Carbon Market** - *BEE and MoEFCC, Govt of India*
 - **MESSAGEix Workshop [June, 2021 & 2025], MESSAGEix Community Meetings [2022-2024]** - *IIASA*
+- **Integrated Assessment of Air Pollution and GHG Mitigation in India using GAINS model** - *TIFAC*
+- **An Introduction to Climate Change: Science, Politics and Impact** - *CSE*
 
 ---
