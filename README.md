@@ -1,7 +1,8 @@
 # Shreeyash Nitin Malode | [Download CV](https://github.com/shreeyashn20/shreeyashn20/blob/main/Shreeyash_Nitin_Malode_CV_Nov_25.pdf)
 
-Doctoral Candidate - Department of Management Sciences  
+Doctoral Candidate - Department of Management Sciences
 Indian Institute of Technology Kanpur (IITK), India  
+Chapter Scientist - Intergovernmental Panel on Climate Change (IPCC)
 Research Area: Emissions Trading, Energy-Climate Policy Modelling and Integrated Assessment Modelling
 
 shreeyashmalode[at]gmail[dot]com  • shreeyashn20[at]iitk[dot]ac[dot]in
