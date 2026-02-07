@@ -3,6 +3,7 @@
 Doctoral Candidate - Department of Management Sciences
 Indian Institute of Technology Kanpur (IITK), India  
 Chapter Scientist - Intergovernmental Panel on Climate Change (IPCC)
+
 Research Area: Emissions Trading, Energy-Climate Policy Modelling and Integrated Assessment Modelling
 
 shreeyashmalode[at]gmail[dot]com  • shreeyashn20[at]iitk[dot]ac[dot]in
