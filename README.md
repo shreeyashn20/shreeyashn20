@@ -1,4 +1,10 @@
-# Shreeyash Nitin Malode | [Download CV](https://github.com/shreeyashn20/shreeyashn20/blob/main/Shreeyash_Nitin_Malode_CV_Nov_25.pdf)
+# Shreeyash Nitin Malode
+
+<details>
+  <summary>Link to download CV</summary>
+    [Download CV](https://github.com/shreeyashn20/shreeyashn20/blob/main/Shreeyash_Nitin_Malode_CV_Nov_25.pdf)
+</details>
+
 
 **Chapter Scientist - Intergovernmental Panel on Climate Change (IPCC)**  
 **Doctoral Candidate - IIT Kanpur | YSSP’25 Fellow - IIASA**  
